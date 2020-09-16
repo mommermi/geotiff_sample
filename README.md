@@ -4,6 +4,9 @@ GeoTiff Sample
 This repository contains a sample GeoTiff file created from Copernicus
 Sentinel-2A data for training purposes.
 
+![Sample GeoTiff File.](sample.png)
+
+
 Meta Data
 ---------
 
